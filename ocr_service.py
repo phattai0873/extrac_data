@@ -16,7 +16,6 @@ class OCRService:
             use_angle_cls=True,
             lang='vi',
             use_gpu=False,
-            show_log=False
         )
         self.poppler_path = poppler_path
 

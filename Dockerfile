@@ -25,6 +25,7 @@ RUN mkdir -p uploads
 # Biến môi trường
 ENV PYTHONUNBUFFERED=1
 ENV OLLAMA_HOST=http://ollama:11434
+ENV PADDLE_PDX_DISABLE_MODEL_SOURCE_CHECK=True
 
 # Mở port 8004
 EXPOSE 8004
