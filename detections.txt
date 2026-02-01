@@ -1,0 +1,104 @@
+﻿
+> p3_full.txt:185:> 
+P3|Y2144.5|X991.0|MF3NA81DES
+  p3_full.txt:186:> 
+> p3_full.txt:187:P3|Y2144.5|X
+1234.0|G4FLSQ5088
+> p3_full.txt:188:> 
+P3|Y2159.0|X1849.0|26,100,00
+  p3_full.txt:189:010%
+> p3_full.txt:190:> 
+P3|Y2159.0|X2202.0|2,610,000
+> p3_full.txt:191:> 
+P3|Y2160.0|X891.0|.0
+  p3_full.txt:192:> 
+> p3_full.txt:193:P3|Y2161.0|X
+1558.0|26,100,000
+> p3_full.txt:194:> 
+P3|Y2164.5|X239.0|AVN 
+  p3_full.txt:195:Stargazer 
+KS [EXT]
+> p3_full.txt:196:> 
+P3|Y2166.5|X759.0|chiÃ©c
+> p3_full.txt:197:> 
+P3|Y2181.0|X1326.0|28
+> p3_full.txt:198:> 
+P3|Y2183.0|X1035.0|078521
+  p3_full.txt:199:> 
+P3|Y2237.5|X243.0|Xe  tÃ¶ 
+  p3_full.txt:200:con ch06 
+ngui (
+  p3_full.txt:201:> 
+P3|Y2272.5|X243.0|khng kÃ© 
+  p3_full.txt:202:nguri 
+lÃ¡i], hieu
+  p3_full.txt:203:> 
+P3|Y2285.0|X991.0|MF3NA81DES
+  p3_full.txt:204:JG4FLSQ5097
+  p3_full.txt:205:> 
+  p3_full.txt:206:P3|Y2303.5|X
+1554.0|456,156,364
+  p3_full.txt:207:> 
+P3|Y2303.5|X1827.0|456,156,3
+  p3_full.txt:208:6410%
+  p3_full.txt:209:> 
+  p3_full.txt:210:P3|Y2303.5|X
+2195.0|45,615,636
+  p3_full.txt:211:> 
+P3|Y2305.5|X895.0|1.0
+  p3_full.txt:212:> 
+P3|Y2309.5|X247.0|Hyundai 
+  p3_full.txt:213:STARGAZER 
+X(Ma
+  p3_full.txt:214:> 
+P3|Y2310.5|X751.0|chiec
+  p3_full.txt:215:> 
+P3|Y2324.0|X1326.0|35
+  p3_full.txt:216:> 
+P3|Y2325.5|X1028.0|078676
+  p3_full.txt:217:> 
+P3|Y2346.0|X247.0|loai 
+  p3_full.txt:218::l6W7D661V 
+B B002],m
+> p3_full.txt:475:  
+P4|Y2173.0|X261.0|Ngui mua 
+  p3_full.txt:476:hang [Buyer]
+> p3_full.txt:477:  
+P4|Y2178.5|X1775.0|Nguroi 
+  p3_full.txt:478:bas 
+hangSeller
+> p3_full.txt:479:  
+P4|Y2184.0|X928.0|NgÃ¤y 21 
+  p3_full.txt:480:thÃ¤ng 01 
+nÃ¤m 2026
+  p3_full.txt:481:  
+P4|Y2227.5|X283.0|Ky, ghi r 
+  p3_full.txt:482:ho ten
+  p3_full.txt:483:  
+P4|Y2235.0|X1875.0|ghi 
+  p3_full.txt:484:rÃ¶hoter
+  p3_full.txt:485:  
+P4|Y2244.5|X847.0|Nguri in 
+  p3_full.txt:486:chuyÃ©n 
+dÃ¶i(Conversion 
+  p3_full.txt:487:printer
+  p3_full.txt:488:  
+P4|Y2273.5|X1830.0|gnatoraT8
+  p3_full.txt:489:Gofffame
+  p3_full.txt:490:  
+  p3_full.txt:491:P4|Y2279.0|X
+254.0|[Signature 
+  p3_full.txt:492:& fullname]
+  p3_full.txt:493:  
+P4|Y2290.0|X1009.0|(signatur
+  p3_full.txt:494:@& fullname]
+  p3_full.txt:495:  
+P4|Y2313.5|X1830.0|/LIEN 
+  p3_full.txt:496:DOANHOTOT
+  p3_full.txt:497:  
+P4|Y2363.0|X1877.0|HYUNDAI
+  p3_full.txt:498:  
+P4|Y2500.5|X1683.0|DOANAOTOH
+  p3_full.txt:499:YUNDAYTHANH
+
+

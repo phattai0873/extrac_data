@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+dist/
+build/
+uploads/*
+!uploads/.gitkeep
+.git/
+.gitignore
+.dockerignore

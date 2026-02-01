@@ -1,0 +1,530 @@
+﻿
+> P3|Y196.0|X862.0|HOADO'N 
+GIA TRI GIA TANG
+> 
+P3|Y263.5|X1079.0|(VATINVOICE
+> P3|Y272.5|X1783.0|KÃ½ 
+hieu[Serial No]:1C26TXH
+> P3|Y296.5|X151.0|SDHYUnDAITC
+MOTOR
+> P3|Y318.5|X895.0|(HÃ³a don 
+chuyÃ©n dÃ³i tir hÃ³a don 
+dien t&)
+> P3|Y338.5|X1783.0|SÃ¶ 
+(Invoice No): 0000554
+> P3|Y371.5|X880.0|(Invoice 
+converted from electronic 
+invoice
+> P3|Y426.5|X866.0|NgÃ¡y 
+[date] 20 thÃ¡ng (month] 01 
+nÃ¡m (year] 2026
+> P3|Y494.0|X140.0|Do'n vi 
+bÃ¤n hÃ¤ng (Seller): CNG TY 
+CÃ– PHAN LIEN DOANH  T 
+HYUNDAI THANH CNG VIET NAM
+> P3|Y562.0|X140.0|Ma sÃ³ 
+thuÃ© [Tax code]: 2700919392
+> P3|Y624.0|X140.0|ia chi 
+[Address]: Khu cng nghiep 
+GiÃ¤n KhÃ¤u, Xa Gia TrÃ¤n, 
+Tinh Ninh Binh, Viet Nam
+> P3|Y690.0|X140.0|ien thoai 
+(Tel): 02437 951116Email: hang
+nt1@hyundai.thanhcong.vnWebsit
+e: www.hyundai.thanhcong.vn
+> P3|Y763.0|X136.0|Ho vÃ¤ 
+tÃ©n nguri mua hÃ¡ng[Customer 
+Name):
+> P3|Y820.0|X140.0|Tâ‚¬n dc'n 
+vi [Company]: CNG TY CÃ“ PHAN 
+TM XNK HUY TIÃ‰N D0NG
+> P3|Y882.0|X140.0|ia chi 
+[Address): SÃ¶ 89 NguyÃªn 
+Hue, KhÃ³m 1, Phung Cao 
+LÃ¤nh, tinh Ã¶ng ThÃ¡p, Viet 
+Nam
+> P3|Y946.0|X136.0|Ma sÃ© 
+thuÃ© [Tax code): 1402021121
+> P3|Y997.0|X1116.0|Hinh 
+thÃ¼c thanh toÃ¤n [Payment 
+Method]: ChuyÃ©n khoÃ¤n
+> P3|Y1004.5|X144.0|SÃ¶ tai 
+khoÃ¤n [Account Number):
+> P3|Y1206.0|X1285.0|SOMAY
+> P3|Y1206.0|X1540.0|DON GIA
+> P3|Y1206.0|X1805.0|THANH 
+TIEN
+> P3|Y1206.0|X2055.0|VAT
+> P3|Y1206.0|X2169.0|TIEN THUE
+> P3|Y1209.5|X888.0|SL
+> P3|Y1209.5|X1024.0|SÃ¶ KHUNG
+> P3|Y1211.0|X755.0|DVT
+> P3|Y1213.0|X291.0|TEN HANG 
+HOA, D!CH VU
+> P3|Y1217.0|X155.0|LS
+> P3|Y1253.5|X2077.0|%
+> P3|Y1255.0|X1523.0|Unit 
+Price
+> P3|Y1257.0|X1845.0|Amount
+> P3|Y1257.0|X2202.0|Val Tax
+> P3|Y1258.5|X1035.0|Vin No
+> P3|Y1258.5|X1271.0|Engine No
+> P3|Y1260.5|X755.0|Unit
+> P3|Y1262.5|X873.0|Qty
+> 
+P3|Y1264.0|X379.0|Description
+> P3|Y1266.0|X158.0|No
+> P3|Y1321.0|X2158.0|[10]=9] 
+x[8]
+> P3|Y1323.0|X1580.0|7]
+> P3|Y1323.0|X1786.0| 
+[8]=[4]x7]
+> P3|Y1323.0|X2066.0|[6]
+> P3|Y1325.0|X1079.0|[5]
+> P3|Y1326.5|X457.0|[2]
+> P3|Y1326.5|X762.0|[3]
+> P3|Y1326.5|X880.0|[4]
+> P3|Y1328.0|X166.0|(1]
+> P3|Y1383.5|X239.0|Xetcon 
+ch06 ngui
+> P3|Y1420.0|X236.0|khng ke 
+ngui lÃ¡i],hiu
+> 
+P3|Y1429.0|X1249.0|G4FLSQ5082
+> P3|Y1431.0|X983.0|MF3NA81DES
+> 
+P3|Y1447.0|X1551.0|456,156,364
+> P3|Y1447.0|X1845.0|456,156,3
+6410%
+> 
+P3|Y1447.0|X2188.0|45,615,636
+> P3|Y1450.5|X891.0|1.0
+> P3|Y1451.0|X748.0|chiÃ©c
+> P3|Y1453.0|X232.0|Hyundai 
+STARGAZER X (Ma
+> P3|Y1469.0|X1042.0|078110
+> P3|Y1469.0|X1285.0|03
+> P3|Y1491.0|X236.0|loai 
+:l6W7D661V B B002], m6i
+> P3|Y1528.0|X239.0|100%
+> 
+P3|Y1573.5|X1245.0|G4FLSQ5082
+> P3|Y1575.0|X983.0|MF3NA81DES
+> P3|Y1590.0|X1842.0|26,100,00
+010%
+> P3|Y1590.0|X2202.0|2,610,000
+> 
+P3|Y1591.5|X1525.0|26,100,000
+> P3|Y1593.5|X888.0|1.0
+> P3|Y1594.0|X751.0|chiÃ©c
+> P3|Y1595.5|X232.0|AVN 
+Stargazer KS (EXT]/
+> P3|Y1601.0|X180.0|2
+> P3|Y1612.0|X1042.0|078110
+> P3|Y1612.0|X1319.0|03
+> P3|Y1668.5|X239.0|Xe t con 
+ch06ngui[
+> P3|Y1703.5|X236.0|khong kÃ© 
+nguri lai], hieu
+> P3|Y1716.5|X983.0|MF3NA81DES
+> 
+P3|Y1718.0|X1241.0|G4FLSQ5088
+> 
+P3|Y1731.0|X1535.0|456,156,364
+> P3|Y1733.0|X1845.0|456,156,3
+6410%
+> 
+P3|Y1733.0|X2188.0|45,615,636
+> P3|Y1736.5|X891.0|1.0
+> P3|Y1740.0|X168.0|3
+> P3|Y1740.0|X235.0|Hyundai 
+STARGAZER X (Ma
+> P3|Y1740.0|X744.0|chiÃ©c
+> P3|Y1756.5|X1035.0|078545
+> P3|Y1756.5|X1326.0|02
+> P3|Y1778.5|X243.0|loai:l6W7D
+661VBB002],mi
+> P3|Y1816.5|X247.0|100%
+> P3|Y1859.0|X987.0|MF3NA81DES
+> 
+P3|Y1859.0|X1241.0|G4FLSQ5088
+> P3|Y1873.5|X1845.0|26,100.00
+010%
+> P3|Y1873.5|X2202.0|2,610,000
+> 
+P3|Y1875.5|X1558.0|26,100,000
+> P3|Y1877.0|X748.0|chiÃ©c
+> P3|Y1879.0|X873.0|1.0
+> P3|Y1883.0|X236.0|AVN 
+Stargazer KS [EXT]
+> P3|Y1897.5|X1039.0|078545
+> P3|Y1897.5|X1330.0|02
+> P3|Y1952.0|X239.0|Xe  tÃ¶ 
+con ch& 06 ngui [
+> P3|Y1989.0|X239.0|khong kÃ© 
+nguri lÃ¡i}, hieu
+> P3|Y2003.5|X998.0|MF3NA81DES
+> 
+P3|Y2003.5|X1238.0|G4FLSQ5088
+> 
+P3|Y2014.5|X1540.0|456.156,364
+> P3|Y2014.5|X1838.0|456,156,3
+6410%
+> 
+P3|Y2018.0|X2195.0|45,615,636
+> P3|Y2022.0|X239.0|Hyundai 
+STARGAZER X (Ma
+> P3|Y2022.0|X748.0|chiÃ©c
+> P3|Y2022.0|X873.0|1.0
+> P3|Y2027.5|X177.0|5
+> P3|Y2040.0|X1035.0|078521
+> P3|Y2040.0|X1315.0|28
+> P3|Y2062.0|X243.0|loai 
+:l6W7D661V B B002], m&i
+> P3|Y2099.0|X247.0|100%
+> P3|Y2144.5|X991.0|MF3NA81DES
+> 
+P3|Y2144.5|X1234.0|G4FLSQ5088
+> P3|Y2159.0|X1849.0|26,100,00
+010%
+> P3|Y2159.0|X2202.0|2,610,000
+> P3|Y2160.0|X891.0|.0
+> 
+P3|Y2161.0|X1558.0|26,100,000
+> P3|Y2164.5|X239.0|AVN 
+Stargazer KS [EXT]
+> P3|Y2166.5|X759.0|chiÃ©c
+> P3|Y2181.0|X1326.0|28
+> P3|Y2183.0|X1035.0|078521
+> P3|Y2237.5|X243.0|Xe  tÃ¶ 
+con ch06 ngui (
+> P3|Y2272.5|X243.0|khng kÃ© 
+nguri lÃ¡i], hieu
+> P3|Y2285.0|X991.0|MF3NA81DES
+JG4FLSQ5097
+> 
+P3|Y2303.5|X1554.0|456,156,364
+> P3|Y2303.5|X1827.0|456,156,3
+6410%
+> 
+P3|Y2303.5|X2195.0|45,615,636
+> P3|Y2305.5|X895.0|1.0
+> P3|Y2309.5|X247.0|Hyundai 
+STARGAZER X(Ma
+> P3|Y2310.5|X751.0|chiec
+> P3|Y2324.0|X1326.0|35
+> P3|Y2325.5|X1028.0|078676
+> P3|Y2346.0|X247.0|loai 
+:l6W7D661V B B002],m
+> P3|Y2384.0|X247.0|100%
+> P3|Y2430.0|X991.0|MF3NA810ES
+> 
+P3|Y2430.0|X1249.0|G4FLSQ5097
+> P3|Y2444.5|X1853.0|26,100,00
+010%
+> P3|Y2446.0|X2210.0|2,610,000
+> 
+P3|Y2448.5|X1558.0|26,100,000
+> P3|Y2451.5|X748.0|chiÃ©c
+> P3|Y2451.5|X891.0|1.0
+> P3|Y2453.5|X243.0|AVN 
+Stargazer KS [EXT]
+> P3|Y2468.0|X1039.0|078676
+> P3|Y2470.0|X1333.0|35
+> P3|Y2525.0|X250.0|Xe  t con 
+ch06 ngui l
+> P3|Y2563.5|X243.0|khng kÃ© 
+nguri lÃ¡i), hiÃ©u  
+> 
+P3|Y2574.0|X1002.0|MF3NA81DETJ
+> 
+P3|Y2574.0|X1256.0|G4FLSQ5332
+> 
+P3|Y2589.0|X1558.0|421,126,364
+> P3|Y2589.0|X1856.0|421,126,3
+6410%
+> 
+P3|Y2589.0|X2206.0|42,112,636
+> P3|Y2594.5|X751.0|chiÃ©c
+> P3|Y2594.5|X895.0|1.0
+> P3|Y2596.0|X239.0|Hyundai 
+STARGAZER X [Ma
+> P3|Y2612.5|X1039.0|082290
+> P3|Y2614.5|X1326.0|42
+> P3|Y2634.5|X250.0|loaiI6W7D6
+61V B B000],mÃ“i
+> P3|Y2673.0|X254.0|100%.
+> 
+P3|Y2715.5|X1249.0|G4FLSQ5332
+> 
+P3|Y2717.0|X991.0|MF3NA81DETJ
+> P3|Y2731.5|X1838.0|26,500,00
+010%
+> P3|Y2732.0|X2202.0|2,650,000
+> P3|Y2735.5|X239.0|AVN 
+Stargazer KS:[INT]
+> 
+P3|Y2735.5|X1554.0|26,500,000
+> P3|Y2737.0|X755.0|chiÃ©c
+> P3|Y2737.0|X895.0|1.0
+> P3|Y2741.0|X177.0|10
+> P3|Y2752.0|X1330.0|42
+> P3|Y2754.0|X1042.0|082290
+> P3|Y2810.5|X254.0|Xe  t con 
+ch06 ngui [
+> P3|Y2845.0|X246.0|khÃ¶ng 
+kÃ© ngurai lÃ¡i], hieu
+> 
+P3|Y2860.0|X991.0|MF3NA81DETJ
+> 
+P3|Y2860.0|X1226.0|G4FLSQ5337
+> 
+P3|Y2874.5|X1565.0|421,126,364
+> P3|Y2874.5|X1856.0|421,126,3
+6410%
+> 
+P3|Y2874.5|X2210.0|42,112,636
+> P3|Y2880.0|X895.0|1.0
+> P3|Y2881.5|X243.0|Hyundai 
+STARGAZER X (Ma
+> P3|Y2882.0|X755.0|chiÃ©c
+> P3|Y2896.5|X1330.0|90
+> P3|Y2898.5|X1042.0|082289
+> P3|Y2918.5|X239.0|ioai: 
+l6W7D661V B B000],mi
+> P3|Y2956.5|X243.0|100%
+> 
+P3|Y3000.5|X994.0|MF3NA81DETJ
+> 
+P3|Y3000.5|X1226.0|G4FLSQ5337
+> P3|Y3013.5|X2059.0|10%
+> 
+P3|Y3015.5|X1853.0|26,500,000
+> 
+P3|Y3017.0|X1558.0|26,500,000
+> P3|Y3017.0|X2206.0|2,650,000
+> P3|Y3019.0|X899.0|1.0
+> P3|Y3020.5|X228.0|AVN 
+Stargazer KS [INT]
+> P3|Y3021.0|X755.0|chiÃ©c
+> P3|Y3022.5|X184.0|12
+> P3|Y3037.5|X1042.0|082289
+> P3|Y3037.5|X1333.0|90
+> P3|Y3253.0|X847.0|000DKA1K0E
+0TML.
+> P3|Y3258.5|X213.0|Ma tra 
+curu hÃ³a don (Invoice Code]
+> P3|Y3258.5|X1322.0|Tra curu 
+tai website: 
+http://www.hoadontvan.com
+> P3|Y3304.5|X214.0|Kh&i tao 
+tÃ¼r phan mÃ©m Qinvoice - 
+CÃ³ng ty CP Dau tu va C6ng 
+Ngh@ idocNet - MST: 
+0104614692 - DT: 024.6682.9843
+> P3|Y3357.0|X678.0|M&CQT:0082
+EAD111AA50475BB3CE568F732DAEF3
+> P3|Y3357.5|X2147.0|Trang 1/2
+  P4|Y195.5|X866.0|HOADO'N 
+GIA TRI GIATANG
+  P4|Y263.5|X1079.0|(VAT 
+INVOICE)
+  P4|Y276.0|X1779.0|KÃ½ 
+hieu[Serial No]:1C26TXH
+  P4|Y294.0|X151.0|ODHYUNDAIIT
+CMOTOR
+  P4|Y316.0|X899.0|(HÃ³a don 
+chuyÃ©n dÃ©i tu hÃ³a do'n 
+dien t&)
+  P4|Y341.5|X1783.0|S6 
+(Invoice No): 0000554
+  P4|Y369.0|X880.0|(Invoice 
+converted from electronic 
+invoice
+  P4|Y426.0|X866.0|Ngay 
+(date] 20 thÃ¤ng (month] 01 
+nÃ¤m [year] 2026
+  P4|Y493.5|X144.0|Do'n vi 
+bÃ¤n hÃ¤ng (Seller): C0NG TY 
+CÃ– PHAN LIEN DOANH Ã“ T 
+HYUNDAI THANH CONG VI&T NAM
+  P4|Y554.0|X144.0|Ma sÃ¶ 
+thuÃ© [Tax code]: 2700919392
+  P4|Y625.0|X147.0|aen 
+tÂ°!A'yu!8 yu!N yun'ua! e!9 
+ex'naeH ue!g dÃ¶!y6u 6uga nyi 
+[ssappn] !ya e!G
+  P4|Y685.5|X140.0|ien thoai 
+(Tel): 02437 951116 Email: 
+hangnt1@hyundai.thanhcong.vn  
+Website: 
+www.hyundai.thanhcong.vn
+  P4|Y760.5|X147.0|Ho va ten 
+nguoi mua hang[Customer Name:
+  P4|Y817.0|X147.0|Ten dc'n 
+vi [Company]: C0NG TY CÃ– 
+PHAN TM XNK HUY TIEN D0NG
+  P4|Y879.0|X147.0|ia chi 
+[Address): SÎ´ 89 NguyÃªn 
+Hue, KhÃ³m 1, Phung Cao 
+LÃ¤nh, tinh Ã¶ng ThÃ¡p, Viet 
+Nam
+  P4|Y941.0|X140.0|Ma s6 
+thuÃ© [Tax code]: 1402021121
+  P4|Y999.5|X147.0|SÃ¶ tai 
+khoÃ¡n [Account Number]:
+  P4|Y999.5|X1123.0|Hinh 
+thÃº'c thanh toÃ¤n (Payment 
+Method): ChuyÃ©n khoÃ¤n
+  P4|Y1200.5|X287.0|TEN HANG 
+HÃ³A,DICH V
+  P4|Y1204.0|X151.0|ST
+  P4|Y1204.0|X755.0|DVT
+  P4|Y1204.0|X1024.0|SO KHUNG
+  P4|Y1204.0|X1285.0|SOMAY
+  P4|Y1204.0|X1536.0|DONGIA
+  P4|Y1204.0|X1801.0|THANH 
+TIEN
+  P4|Y1204.5|X2157.0|TIEN THUE
+  P4|Y1206.5|X884.0|SL
+  P4|Y1206.5|X2059.0|VAT
+  P4|Y1253.5|X1034.0|Vin No
+  P4|Y1254.0|X155.0|No
+  
+P4|Y1254.0|X1519.0|Unit.Price
+  
+P4|Y1255.5|X379.0|Description
+  P4|Y1255.5|X751.0|Unit
+  P4|Y1255.5|X873.0|Qty
+  P4|Y1257.5|X1267.0|Engine No
+  P4|Y1259.0|X1842.0|Amount
+  P4|Y1261.0|X2195.0|Val Tax
+  P4|Y1319.5|X770.0|[â‚¬]
+  P4|Y1319.5|X1083.0|[5]
+  P4|Y1321.5|X457.0|[2]
+  P4|Y1321.5|X877.0|[4]
+  
+P4|Y1323.5|X1812.0|[8]=[4]x[7]
+  P4|Y1323.5|X2037.0|[9][10]=9
+]x[8]
+  P4|Y1325.0|X1587.0|7]
+  P4|Y1445.5|X2033.0|TÃ–NG 
+THANH TOAN
+  P4|Y1449.0|X1764.0|TONG TIEN
+  P4|Y1453.0|X1319.0|TÃ¶NG 
+TIEN.CHUA
+  P4|Y1469.5|X674.0|TÃ¶NG HO'P
+  P4|Y1471.5|X1646.0|VAT
+  P4|Y1486.0|X1403.0|THUE
+  P4|Y1487.5|X1783.0|THUE
+  P4|Y1502.0|X2125.0|Total
+  P4|Y1522.0|X1359.0|Totalno 
+VAT
+  P4|Y1524.5|X667.0|Synthetic
+  P4|Y1530.0|X1768.0|TotalVAT
+  P4|Y1541.0|X2062.0|including
+VAT
+  P4|Y1603.0|X151.0|TÃ¶ng 
+tiÃ©n khng chiu thuÃ© GTGT 
+[Total amount not subject to 
+tax]
+  P4|Y1606.5|X2328.0|0
+  P4|Y1672.5|X147.0|TÃ¶ng 
+tiÃ©n chiu thuÃ© suat 
+0%(Total amount subject to 
+tax 0%]
+  P4|Y1672.5|X1573.0|00%
+  P4|Y1676.0|X2328.0|0
+  P4|Y1738.0|X151.0|TÃ¶ng 
+tiÃ©n chiu thuÃ© suat 5% 
+(Total amount subject to tax 
+5%)
+  P4|Y1739.5|X1580.0|%
+  P4|Y1740.0|X1930.0|0
+  P4|Y1741.5|X2328.0|0
+  P4|Y1805.5|X1937.0|0
+  P4|Y1807.5|X147.0|TÃ¶ng 
+tiÃ©n chiu thuÃ© suat 8% 
+(Total amount subject to tax 
+8%]
+  P4|Y1809.5|X1628.0|8%
+  P4|Y1809.5|X2328.0|0
+  P4|Y1873.5|X1377.0|2.824.278
+.18410%
+  P4|Y1875.0|X2121.0|3,106,706
+,000
+  P4|Y1877.0|X151.0|TÃ¶ng 
+tien chiu thuÃ© suat 10% 
+(Total amount subject to tax 
+10%
+  
+P4|Y1877.0|X1775.0|282,427,816
+  P4|Y1939.5|X148.0|TÃ¶NG cNG 
+[Total]O
+  P4|Y1940.5|X1362.0|2,824,278
+,184
+  P4|Y1946.5|X2110.0|3,106,706
+,000
+  
+P4|Y1948.5|X1753.0|282,427,816
+  P4|Y2034.5|X147.0|SÃ© tiÃ©n 
+viÃ©t bÃ¤ng chÃº [Amount in 
+words]: Ba tÃ½ mt trÃ¤m linh 
+sau trieu bay trÃ¤m linh sÃ¡u 
+nghin dÃ¶ng./.
+  P4|Y2173.0|X261.0|Ngui mua 
+hang [Buyer]
+  P4|Y2178.5|X1775.0|Nguroi 
+bas hangSeller
+  P4|Y2184.0|X928.0|NgÃ¤y 21 
+thÃ¤ng 01 nÃ¤m 2026
+  P4|Y2227.5|X283.0|Ky, ghi r 
+ho ten
+  P4|Y2235.0|X1875.0|ghi 
+rÃ¶hoter
+  P4|Y2244.5|X847.0|Nguri in 
+chuyÃ©n dÃ¶i(Conversion 
+printer
+  P4|Y2273.5|X1830.0|gnatoraT8
+Gofffame
+  
+P4|Y2279.0|X254.0|[Signature 
+& fullname]
+  P4|Y2290.0|X1009.0|(signatur
+@& fullname]
+  P4|Y2313.5|X1830.0|/LIEN 
+DOANHOTOT
+  P4|Y2363.0|X1877.0|HYUNDAI
+  P4|Y2500.5|X1683.0|DOANAOTOH
+YUNDAYTHANH
+  P4|Y2523.5|X459.0|BAN HANG
+  P4|Y2531.0|X1137.0|TTtlong
+  
+P4|Y2549.5|X1828.0|CONAVIELNAM
+  P4|Y2591.5|X378.0|QUA DIEN 
+THOAI
+  P4|Y2626.5|X1617.0|Ngay kÃ½ 
+(Signed Date]:20/01/2026
+  
+P4|Y2701.5|X1757.0|PHOGIAMDOC 
+BOPHANTAI CHINH-KETOAN
+  P4|Y2787.0|X1760.0|Pham Thi 
+Van Anh
+  P4|Y3242.0|X840.0|O00DKA1K0E
+0TML
+  P4|Y3246.0|X206.0|Ma tra 
+curu hÃ³a don [Invoice Code]
+  P4|Y3249.0|X1311.0|Tra c'ru 
+tai website:http://www.hoadont
+van.com
+  P4|Y3295.0|X206.0|Khi tao 
+tur phan mÃ©m Qinvoice -C6ng 
+ty CP Dau tu va C6ng Ngh@ 
+idocNet -MST:0104614692 -DT: 
+024.6682.9843
+  P4|Y3348.5|X674.0|M&CQT:0082
+EAD111AA50475BB3CE568F732DAEF3
+  P4|Y3357.5|X2121.0|Trang 
+2/2:9
+
+

@@ -1,0 +1,426 @@
+Layout: HYUNDAI
+Invoice No: 0000554
+Vehicles: 7
+VIN: MF3NA81DESJ078110, Engine: None, Desc: Só khung(Chassis N9):MF3NA81DESJ078110
+VIN: MF3NA81DES078110, Engine: G4FLS05082, Desc: khng ke ngui lái],hiu loai :l6W7D661V B B002], m6i
+VIN: MF3NA81DES078545, Engine: G4FLS05088, Desc: khong ké nguri lai], hieu loai:l6W7D661VBB002],mi
+VIN: MF3NA81DES078521, Engine: G4FLS05088, Desc: khong ké nguri lái}, hieu loai :l6W7D661V B B002],
+VIN: MF3NA810ES078676, Engine: G4FLS05097, Desc: AVN Stargazer KS [EXT]
+VIN: MF3NA81DETJ082290, Engine: G4FLS05332, Desc: khng ké nguri lái), hiéu   loaiI6W7D661V B B000],m
+VIN: MF3NA81DETJ082289, Engine: L6W7D661VBB000, Desc: khöng ké ngurai lái], hieu ioai: l6W7D661V B B000]
+
+--- FULL TEXT ---
+MauVAQ15-03
+X.H.C.N
+BO XAY DUNG
+CONGHOAXA HOI CHU NGHIAVIETNAM
+CUCDANG KIEMVIET
+Doc lap-Tu do-Hanh phuc
+CUC
+MINISTRYOFCONSTRUO
+SOCIALISTREPUBLICOFVIETNAM
+DANG KIEM
+VIETNAM REGISTER
+Independence.-Freedom-Happiness
+VIET NAM
+SO (N9):25KOT/294936
+GIAY CHNG NHANCHAT LUONG AN TOAN KY THUATVA
+BAO VE MOI TRUMGXETO,RO MOOC,SO MI RO MOOC NHAP KHAU
+(Certificate of conformity from inspection of technical safety quality and environmental
+protection for imported automobile, trailer, semitrailer)
+Tinh trang phuong tien (Vehicle's status):Chua qua sir dung
+Nguoi nhap khau (lmporter):CONG TY CO PHAN THUONG MAI DICH VU TCG
+Dia chi (Address) Khu cong nghiep Gian Khau,Xa Gia Tran,Huyen Gia Vién,Tinh Ninh Binh,Viet Nam
+Loai phuong tien (Vehicle's type): t con
+Xe su dung nang luong sach, nang lurong xanh, than thién moi trrng (Clean, green energy vehicle): Khöng
+Cho phép tur döng hóa diéu khién (Allows driving automation): Möt phan
+Nhan hieu (Trade mark):HYUNDAI
+Ma kiéu loai (Model code): I6W7D661V B B002
+Ten thuong mai (Commercial name): STARGAZER X
+Mau xe (Vehicle color): TRANG
+Só khung(Chassis N9):MF3NA81DESJ078110
+S6 dong co (Engine N9): G4FLSQ508203
+Nuróc san xuat (Production country): INDONESIA
+Nam sän xuät (Production year): 2025
+S6 to khai hang hóa nhap khau/ngay (Customs declaration N%/date): 107223512651/29/05/2025
+S6 bien ban kiém tra (Inspection record N9): 003740/25OT-039/345
+Thi gian/Dia diém kiém tra (Inspection date/site): 07/06/2025 /Thanh phó H Chi Minh
+S6 dang ky kiém tra (Registered N9 for inspection): 003740/25OT
+THONG SO KY THUAT CO BAN
+(Major technical specification)
+Khói luong ban than (Kerb mass):
+1285
+kg
+1850/1850
+kg
+Khöi lugng toan bo TK lön nhat/cho phép lón nhat (Max. total mass: Designed/Authorized):
+06(06 ngi)
+Só nguri cho phép chö, khöng ké ngui lái: Töng(ngi+dúrng+nam+xe lan):
+ngui
+(Passenger capacity excluding driver Total (seating+standing+lying+wheelchair)
+Kich thuóc bao : Dai x Rong x Cao (Overall dimensions: L x W x H):
+4495x1815x1710
+mm
+Cong thúrc banh xe (Drive configuration):
+4x2
+2780
+Khoang cach truc (Wheel space):
+mm
+Vét bänh xe sau (Rear track):
+1559
+1572
+Vét bänh xe truóc (Front track):
+mm
+Ky hieu, loai dong co (Engine model, engine type)
+G4FL,4 ky, 4 xi lanh thang hang
+The tich lam viéc (Displacement):
+1497
+cm3
+Loai nhien lieu(Fuel):
+Xang
+84,4/6300 kW/rpm
+Cong suát lön nhát cua döng co/ töc dö quay (Max. engine output/rpm):
+-Truc 2(Axle 2nd):
+02 Lop;205/50R17
+Lop xe (Tyres):
+Truc1(Axle1s02Lop205/50R17
+Thiét b dac trung (Special equipment):
+Xe da dugc kién tra va dat yéu cáu theo quy dinh cua Thöng tu só 54/2024/TT-BGTVT, ngay 15 tháng 11 nam 2024 cua B trurng B Giao thöng van
+tai.
+The vehicle has been inspected and satisfied with requirements of the Circular N54/2024/TT-BGTVT issued on November 15h,2024 byMinister of
+Ministry of Transport.
+(Date) Ha Noi, ngay 11 thang 06 nam 2025
+Co quan chüng nhan
+Ghi chu (Remarks):
+Chu trinh thu nghiem (Test method): QCVN 109:2021/BGTVT
+Mírc ticu thu nang lurang(Energy consumption):
+- Chu trinh do thj co ban (Trong do thi) (Urban driving cycle): 7,8(/100
+km)
+-Chu trinh do thi phu (Ngoai do thi) (Extra urban driving cycle): 5,4(/100
+OTHAMS
+DUNG
+km)
+Thi gian:
+-Chu trinh to hop (Két hop) (Combination):6,31/100 km)
+15/06/2025
+07:32:41
+Ky biHoang Quan
+Hoang Quan
+Email:
+quanh.vr@mt.gov.yn
+CoquanCUC DANG
+KIEM VIET NAM,BO
+XAY DUNG
+Thi gian: 15/06/2025
+07:32:41
+NoteThis certificate will be expired if quality of the inspected motor vehicle is influenced by carrying, landing, storing, etc...
+007934
+CONGTY
+COPHAN
+THUONG MAIDICHVU
+TCG
+HOADO'N GIA TRI GIA TANG
+(VATINVOICE
+Ký hieu[Serial No]:1C26TXH
+SDHYUnDAITCMOTOR
+(Hóa don chuyén dói tir hóa don dien t&)
+Sö (Invoice No): 0000554
+(Invoice converted from electronic invoice
+Ngáy [date] 20 tháng (month] 01 nám (year] 2026
+Do'n vi bän häng (Seller): CNG TY CÖ PHAN LIEN DOANH  T HYUNDAI THANH CNG VIET NAM
+Ma só thué [Tax code]: 2700919392
+ia chi [Address]: Khu cng nghiep Giän Khäu, Xa Gia Trän, Tinh Ninh Binh, Viet Nam
+ien thoai (Tel): 02437 951116Email: hangnt1@hyundai.thanhcong.vnWebsite: www.hyundai.thanhcong.vn
+Ho vä tén nguri mua háng[Customer Name):
+T€n dc'n vi [Company]: CNG TY CÓ PHAN TM XNK HUY TIÉN D0NG
+ia chi [Address): Sö 89 Nguyên Hue, Khóm 1, Phung Cao Länh, tinh öng Tháp, Viet Nam
+Ma sé thué [Tax code): 1402021121
+Sö tai khoän [Account Number):
+Hinh thüc thanh toän [Payment Method]: Chuyén khoän
+TEN HANG HOA, D!CH VU
+DVT
+SL
+Sö KHUNG
+SOMAY
+DON GIA
+THANH TIEN
+VAT
+TIEN THUE
+LS
+Unit
+Qty
+Vin No
+Engine No
+Unit Price
+%
+No
+Description
+Amount
+Val Tax
+[2]
+[3]
+[4]
+[5]
+7]
+ [8]=[4]x7]
+[6]
+[10]=9] x[8]
+(1]
+Xetcon ch06 ngui
+khng ke ngui lái],hiu
+MF3NA81DES
+G4FLSQ5082
+Hyundai STARGAZER X (Ma
+chiéc
+1.0
+456,156,364
+456,156,36410%
+45,615,636
+078110
+03
+loai :l6W7D661V B B002], m6i
+100%
+MF3NA81DES
+G4FLSQ5082
+26,100,000
+26,100,00010%
+AVN Stargazer KS (EXT]/
+chiéc
+1.0
+2,610,000
+2
+078110
+03
+Xe t con ch06ngui[
+khong ké nguri lai], hieu
+MF3NA81DES
+G4FLSQ5088
+456,156,364
+chiéc
+1.0
+456,156,36410%
+45,615,636
+Hyundai STARGAZER X (Ma
+3
+078545
+02
+loai:l6W7D661VBB002],mi
+100%
+MF3NA81DES
+G4FLSQ5088
+chiéc
+26,100,000
+26,100.00010%
+2,610,000
+AVN Stargazer KS [EXT]
+1.0
+078545
+02
+Xe  tö con ch& 06 ngui [
+khong ké nguri lái}, hieu
+MF3NA81DES
+G4FLSQ5088
+456.156,364
+456,156,36410%
+Hyundai STARGAZER X (Ma
+chiéc
+1.0
+45,615,636
+5
+078521
+28
+loai :l6W7D661V B B002], m&i
+100%
+MF3NA81DES
+G4FLSQ5088
+AVN Stargazer KS [EXT]
+26,100,000
+26,100,00010%
+2,610,000
+chiéc
+.0
+078521
+28
+Xe  tö con ch06 ngui (
+khng ké nguri lái], hieu
+MF3NA81DESJG4FLSQ5097
+456,156,364
+456,156,36410%
+1.0
+45,615,636
+Hyundai STARGAZER X(Ma
+chiec
+078676
+35
+loai :l6W7D661V B B002],m
+100%
+MF3NA810ES
+G4FLSQ5097
+26,100,000
+26,100,00010%
+AVN Stargazer KS [EXT]
+chiéc
+2,610,000
+1.0
+078676
+35
+Xe  t con ch06 ngui l
+khng ké nguri lái), hiéu  
+MF3NA81DETJ
+G4FLSQ5332
+Hyundai STARGAZER X [Ma
+chiéc
+1.0
+421,126,364
+421,126,36410%
+42,112,636
+082290
+42
+loaiI6W7D661V B B000],mÓi
+100%.
+MF3NA81DETJ
+G4FLSQ5332
+AVN Stargazer KS:[INT]
+chiéc
+1.0
+26,500,000
+26,500,00010%
+2,650,000
+10
+082290
+42
+Xe  t con ch06 ngui [
+khöng ké ngurai lái], hieu
+MF3NA81DETJ
+G4FLSQ5337
+chiéc
+1.0
+421,126,364
+421,126,36410%
+42,112,636
+Hyundai STARGAZER X (Ma
+082289
+90
+ioai: l6W7D661V B B000],mi
+100%
+MF3NA81DETJ
+G4FLSQ5337
+AVN Stargazer KS [INT]
+chiéc
+26,500,000
+26,500,000
+10%
+1.0
+2,650,000
+12
+082289
+90
+000DKA1K0E0TML.
+Ma tra curu hóa don (Invoice Code]
+Tra curu tai website: http://www.hoadontvan.com
+Kh&i tao tür phan mém Qinvoice - Cóng ty CP Dau tu va C6ng Ngh@ idocNet - MST: 0104614692 - DT: 024.6682.9843
+M&CQT:0082EAD111AA50475BB3CE568F732DAEF3
+Trang 1/2
+HOADO'N GIA TRI GIATANG
+(VAT INVOICE)
+Ký hieu[Serial No]:1C26TXH
+ODHYUNDAIITCMOTOR
+(Hóa don chuyén déi tu hóa do'n dien t&)
+S6 (Invoice No): 0000554
+(Invoice converted from electronic invoice
+Ngay (date] 20 thäng (month] 01 näm [year] 2026
+Do'n vi bän häng (Seller): C0NG TY CÖ PHAN LIEN DOANH Ó T HYUNDAI THANH CONG VI&T NAM
+Ma sö thué [Tax code]: 2700919392
+aen t°!A'yu!8 yu!N yun'ua! e!9 ex'naeH ue!g dö!y6u 6uga nyi [ssappn] !ya e!G
+ien thoai (Tel): 02437 951116 Email: hangnt1@hyundai.thanhcong.vn  Website: www.hyundai.thanhcong.vn
+Ho va ten nguoi mua hang[Customer Name:
+Ten dc'n vi [Company]: C0NG TY CÖ PHAN TM XNK HUY TIEN D0NG
+ia chi [Address): Sδ 89 Nguyên Hue, Khóm 1, Phung Cao Länh, tinh öng Tháp, Viet Nam
+Ma s6 thué [Tax code]: 1402021121
+Sö tai khoán [Account Number]:
+Hinh thú'c thanh toän (Payment Method): Chuyén khoän
+ST
+TEN HANG HóA,DICH V
+DVT
+SL
+SO KHUNG
+SOMAY
+DONGIA
+THANH TIEN
+VAT
+TIEN THUE
+No
+Unit
+Qty
+Vin No
+Engine No
+Unit.Price
+Description
+Amount
+Val Tax
+[2]
+[€]
+[4]
+[5]
+7]
+[8]=[4]x[7]
+[9][10]=9]x[8]
+TONG TIEN
+TÖNG THANH TOAN
+TöNG TIEN.CHUA
+TöNG HO'P
+VAT
+THUE
+THUE
+Total
+Synthetic
+Totalno VAT
+TotalVAT
+includingVAT
+Töng tién khng chiu thué GTGT [Total amount not subject to tax]
+0
+Töng tién chiu thué suat 0%(Total amount subject to tax 0%]
+00%
+0
+Töng tién chiu thué suat 5% (Total amount subject to tax 5%)
+%
+0
+0
+Töng tién chiu thué suat 8% (Total amount subject to tax 8%]
+8%
+0
+0
+Töng tien chiu thué suat 10% (Total amount subject to tax 10%
+2.824.278.18410%
+282,427,816
+3,106,706,000
+TöNG cNG [Total]O
+2,824,278,184
+282,427,816
+3,106,706,000
+Sé tién viét bäng chú [Amount in words]: Ba tý mt träm linh sau trieu bay träm linh sáu nghin döng./.
+Ngui mua hang [Buyer]
+Ngäy 21 thäng 01 näm 2026
+Nguroi bas hangSeller
+Ky, ghi r ho ten
+Nguri in chuyén döi(Conversion printer
+ghi röhoter
+[Signature & fullname]
+gnatoraT8Gofffame
+(signatur@& fullname]
+/LIEN DOANHOTOT
+HYUNDAI
+BAN HANG
+DOANAOTOHYUNDAYTHANH
+TTtlong
+CONAVIELNAM
+QUA DIEN THOAI
+Ngay ký (Signed Date]:20/01/2026
+PHOGIAMDOC BOPHANTAI CHINH-KETOAN
+Pham Thi Van Anh
+Ma tra curu hóa don [Invoice Code]
+O00DKA1K0E0TML
+Tra c'ru tai website:http://www.hoadontvan.com
+Khi tao tur phan mém Qinvoice -C6ng ty CP Dau tu va C6ng Ngh@ idocNet -MST:0104614692 -DT: 024.6682.9843
+M&CQT:0082EAD111AA50475BB3CE568F732DAEF3
+Trang 2/2:9

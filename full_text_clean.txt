@@ -1,0 +1,414 @@
+P1|Y113.0|X2093.0|MauVAQ15-03
+P1|Y195.0|X826.0|X.H.C.N
+P1|Y202.5|X1371.0|CONGHOAXA HOI CHU NGHIAVIETNAM
+P1|Y206.0|X343.0|BO XAY DUNG
+P1|Y257.0|X217.0|CUCDANG KIEMVIET
+P1|Y257.0|X1537.0|Doc lap-Tu do-Hanh phuc
+P1|Y294.5|X825.0|CUC
+P1|Y321.0|X1469.0|SOCIALISTREPUBLICOFVIETNAM
+P1|Y324.5|X220.0|MINISTRYOFCONSTRUO
+P1|Y357.0|X737.0|DANG KIEM
+P1|Y373.5|X1494.0|Independence.-Freedom-Happiness
+P1|Y377.5|X303.0|VIETNAM REGISTER
+P1|Y419.5|X735.0|VIET NAM
+P1|Y428.5|X310.0|SO (N9):25KOT/294936
+P1|Y479.5|X498.0|GIAY CHNG NHANCHAT LUONG AN TOAN KY THUATVA
+P1|Y536.0|X346.0|BAO VE MOI TRUMGXETO,RO MOOC,SO MI RO MOOC NHAP KHAU
+P1|Y592.5|X502.0|(Certificate of conformity from inspection of technical safety quality and environmental
+P1|Y640.0|X751.0|protection for imported automobile, trailer, semitrailer)
+P1|Y687.5|X260.0|Tinh trang phuong tien (Vehicle's status):Chua qua sir dung
+P1|Y722.0|X177.0|Nguoi nhap khau (lmporter):CONG TY CO PHAN THUONG MAI DICH VU TCG
+P1|Y764.0|X180.0|Dia chi (Address) Khu cong nghiep Gian Khau,Xa Gia Tran,Huyen Gia Vién,Tinh Ninh Binh,Viet Nam
+P1|Y811.5|X180.0|Loai phuong tien (Vehicle's type): t con
+P1|Y855.0|X177.0|Xe su dung nang luong sach, nang lurong xanh, than thién moi trrng (Clean, green energy vehicle): Khöng
+P1|Y900.5|X180.0|Cho phép tur döng hóa diéu khién (Allows driving automation): Möt phan
+P1|Y937.0|X1331.0|Ma kiéu loai (Model code): I6W7D661V B B002
+P1|Y942.5|X184.0|Nhan hieu (Trade mark):HYUNDAI
+P1|Y986.0|X1328.0|Mau xe (Vehicle color): TRANG
+P1|Y988.0|X180.0|Ten thuong mai (Commercial name): STARGAZER X
+P1|Y1030.0|X1332.0|S6 dong co (Engine N9): G4FLSQ508203
+P1|Y1033.5|X184.0|Só khung(Chassis N9):MF3NA81DESJ078110
+P1|Y1072.0|X1335.0|Nam sän xuät (Production year): 2025
+P1|Y1075.5|X184.0|Nuróc san xuat (Production country): INDONESIA
+P1|Y1117.5|X184.0|S6 to khai hang hóa nhap khau/ngay (Customs declaration N%/date): 107223512651/29/05/2025
+P1|Y1161.0|X184.0|S6 bien ban kiém tra (Inspection record N9): 003740/25OT-039/345
+P1|Y1201.0|X188.0|Thi gian/Dia diém kiém tra (Inspection date/site): 07/06/2025 /Thanh phó H Chi Minh
+P1|Y1241.0|X184.0|S6 dang ky kiém tra (Registered N9 for inspection): 003740/25OT
+P1|Y1338.0|X884.0|THONG SO KY THUAT CO BAN
+P1|Y1394.5|X927.0|(Major technical specification)
+P1|Y1442.0|X2039.0|1285
+P1|Y1445.5|X2212.0|kg
+P1|Y1453.0|X184.0|Khói luong ban than (Kerb mass):
+P1|Y1486.0|X1959.0|1850/1850
+P1|Y1487.5|X2215.0|kg
+P1|Y1493.0|X180.0|Khöi lugng toan bo TK lön nhat/cho phép lón nhat (Max. total mass: Designed/Authorized):
+P1|Y1531.0|X1939.0|06(06 ngi)
+P1|Y1533.0|X2165.0|ngui
+P1|Y1540.0|X180.0|Só nguri cho phép chö, khöng ké ngui lái: Töng(ngi+dúrng+nam+xe lan):
+P1|Y1582.5|X180.0|(Passenger capacity excluding driver Total (seating+standing+lying+wheelchair)
+P1|Y1619.0|X1833.0|4495x1815x1710
+P1|Y1621.0|X2198.0|mm
+P1|Y1628.0|X180.0|Kich thuóc bao : Dai x Rong x Cao (Overall dimensions: L x W x H):
+P1|Y1664.0|X2039.0|4x2
+P1|Y1673.5|X184.0|Cong thúrc banh xe (Drive configuration):
+P1|Y1708.0|X2039.0|2780
+P1|Y1712.0|X2198.0|mm
+P1|Y1722.5|X188.0|Khoang cach truc (Wheel space):
+P1|Y1752.0|X2046.0|1572
+P1|Y1755.5|X1231.0|Vét bänh xe sau (Rear track):
+P1|Y1755.5|X2201.0|mm
+P1|Y1759.0|X794.0|1559
+P1|Y1766.5|X191.0|Vét bänh xe truóc (Front track):
+P1|Y1803.0|X1050.0|G4FL,4 ky, 4 xi lanh thang hang
+P1|Y1808.5|X191.0|Ky hieu, loai dong co (Engine model, engine type)
+P1|Y1843.0|X2053.0|1497
+P1|Y1843.0|X2205.0|cm3
+P1|Y1848.5|X1234.0|The tich lam viéc (Displacement):
+P1|Y1854.0|X635.0|Xang
+P1|Y1855.5|X191.0|Loai nhien lieu(Fuel):
+P1|Y1886.5|X1974.0|84,4/6300 kW/rpm
+P1|Y1896.0|X184.0|Cong suát lön nhát cua döng co/ töc dö quay (Max. engine output/rpm):
+P1|Y1934.0|X1403.0|-Truc 2(Axle 2nd):
+P1|Y1934.0|X1747.0|02 Lop;205/50R17
+P1|Y1939.5|X527.0|Truc1(Axle1s02Lop205/50R17
+P1|Y1947.0|X188.0|Lop xe (Tyres):
+P1|Y2029.0|X188.0|Thiét b dac trung (Special equipment):
+P1|Y2059.5|X238.0|Xe da dugc kién tra va dat yéu cáu theo quy dinh cua Thöng tu só 54/2024/TT-BGTVT, ngay 15 tháng 11 nam 2024 cua B trurng B Giao thöng van
+P1|Y2107.5|X188.0|tai.
+P1|Y2134.5|X238.0|The vehicle has been inspected and satisfied with requirements of the Circular N54/2024/TT-BGTVT issued on November 15h,2024 byMinister of
+P1|Y2185.5|X180.0|Ministry of Transport.
+P1|Y2242.0|X1421.0|(Date) Ha Noi, ngay 11 thang 06 nam 2025
+P1|Y2284.5|X1570.0|Co quan chüng nhan
+P1|Y2297.0|X195.0|Ghi chu (Remarks):
+P1|Y2330.0|X184.0|Chu trinh thu nghiem (Test method): QCVN 109:2021/BGTVT
+P1|Y2370.0|X191.0|Mírc ticu thu nang lurang(Energy consumption):
+P1|Y2404.0|X191.0|- Chu trinh do thj co ban (Trong do thi) (Urban driving cycle): 7,8(/100
+P1|Y2446.5|X198.0|km)
+P1|Y2477.0|X195.0|-Chu trinh do thi phu (Ngoai do thi) (Extra urban driving cycle): 5,4(/100
+P1|Y2493.5|X1681.0|OTHAMS
+P1|Y2496.0|X1916.0|DUNG
+P1|Y2521.0|X200.0|km)
+P1|Y2536.0|X1916.0|Thi gian:
+P1|Y2552.5|X198.0|-Chu trinh to hop (Két hop) (Combination):6,31/100 km)
+P1|Y2572.0|X1920.0|15/06/2025
+P1|Y2612.0|X1916.0|07:32:41
+P1|Y2692.5|X1967.0|Ky biHoang Quan
+P1|Y2722.0|X1649.0|Hoang Quan
+P1|Y2743.5|X1974.0|Email:
+P1|Y2787.5|X1967.0|quanh.vr@mt.gov.yn
+P1|Y2831.0|X1974.0|CoquanCUC DANG
+P1|Y2874.5|X1970.0|KIEM VIET NAM,BO
+P1|Y2922.0|X1974.0|XAY DUNG
+P1|Y2965.5|X1970.0|Thi gian: 15/06/2025
+P1|Y3010.0|X1974.0|07:32:41
+P1|Y3341.5|X476.0|NoteThis certificate will be expired if quality of the inspected motor vehicle is influenced by carrying, landing, storing, etc...
+P2|Y724.5|X467.0|007934
+P2|Y807.0|X421.0|CONGTY
+P2|Y859.5|X405.0|COPHAN
+P2|Y917.5|X339.0|THUONG MAIDICHVU
+P2|Y983.5|X437.0|TCG
+P3|Y196.0|X862.0|HOADO'N GIA TRI GIA TANG
+P3|Y263.5|X1079.0|(VATINVOICE
+P3|Y272.5|X1783.0|Ký hieu[Serial No]:1C26TXH
+P3|Y296.5|X151.0|SDHYUnDAITCMOTOR
+P3|Y318.5|X895.0|(Hóa don chuyén dói tir hóa don dien t&)
+P3|Y338.5|X1783.0|Sö (Invoice No): 0000554
+P3|Y371.5|X880.0|(Invoice converted from electronic invoice
+P3|Y426.5|X866.0|Ngáy [date] 20 tháng (month] 01 nám (year] 2026
+P3|Y494.0|X140.0|Do'n vi bän häng (Seller): CNG TY CÖ PHAN LIEN DOANH  T HYUNDAI THANH CNG VIET NAM
+P3|Y562.0|X140.0|Ma só thué [Tax code]: 2700919392
+P3|Y624.0|X140.0|ia chi [Address]: Khu cng nghiep Giän Khäu, Xa Gia Trän, Tinh Ninh Binh, Viet Nam
+P3|Y690.0|X140.0|ien thoai (Tel): 02437 951116Email: hangnt1@hyundai.thanhcong.vnWebsite: www.hyundai.thanhcong.vn
+P3|Y763.0|X136.0|Ho vä tén nguri mua háng[Customer Name):
+P3|Y820.0|X140.0|T€n dc'n vi [Company]: CNG TY CÓ PHAN TM XNK HUY TIÉN D0NG
+P3|Y882.0|X140.0|ia chi [Address): Sö 89 Nguyên Hue, Khóm 1, Phung Cao Länh, tinh öng Tháp, Viet Nam
+P3|Y946.0|X136.0|Ma sé thué [Tax code): 1402021121
+P3|Y997.0|X1116.0|Hinh thüc thanh toän [Payment Method]: Chuyén khoän
+P3|Y1004.5|X144.0|Sö tai khoän [Account Number):
+P3|Y1206.0|X1285.0|SOMAY
+P3|Y1206.0|X1540.0|DON GIA
+P3|Y1206.0|X1805.0|THANH TIEN
+P3|Y1206.0|X2055.0|VAT
+P3|Y1206.0|X2169.0|TIEN THUE
+P3|Y1209.5|X888.0|SL
+P3|Y1209.5|X1024.0|Sö KHUNG
+P3|Y1211.0|X755.0|DVT
+P3|Y1213.0|X291.0|TEN HANG HOA, D!CH VU
+P3|Y1217.0|X155.0|LS
+P3|Y1253.5|X2077.0|%
+P3|Y1255.0|X1523.0|Unit Price
+P3|Y1257.0|X1845.0|Amount
+P3|Y1257.0|X2202.0|Val Tax
+P3|Y1258.5|X1035.0|Vin No
+P3|Y1258.5|X1271.0|Engine No
+P3|Y1260.5|X755.0|Unit
+P3|Y1262.5|X873.0|Qty
+P3|Y1264.0|X379.0|Description
+P3|Y1266.0|X158.0|No
+P3|Y1321.0|X2158.0|[10]=9] x[8]
+P3|Y1323.0|X1580.0|7]
+P3|Y1323.0|X1786.0| [8]=[4]x7]
+P3|Y1323.0|X2066.0|[6]
+P3|Y1325.0|X1079.0|[5]
+P3|Y1326.5|X457.0|[2]
+P3|Y1326.5|X762.0|[3]
+P3|Y1326.5|X880.0|[4]
+P3|Y1328.0|X166.0|(1]
+P3|Y1383.5|X239.0|Xetcon ch06 ngui
+P3|Y1420.0|X236.0|khng ke ngui lái],hiu
+P3|Y1429.0|X1249.0|G4FLSQ5082
+P3|Y1431.0|X983.0|MF3NA81DES
+P3|Y1447.0|X1551.0|456,156,364
+P3|Y1447.0|X1845.0|456,156,36410%
+P3|Y1447.0|X2188.0|45,615,636
+P3|Y1450.5|X891.0|1.0
+P3|Y1451.0|X748.0|chiéc
+P3|Y1453.0|X232.0|Hyundai STARGAZER X (Ma
+P3|Y1469.0|X1042.0|078110
+P3|Y1469.0|X1285.0|03
+P3|Y1491.0|X236.0|loai :l6W7D661V B B002], m6i
+P3|Y1528.0|X239.0|100%
+P3|Y1573.5|X1245.0|G4FLSQ5082
+P3|Y1575.0|X983.0|MF3NA81DES
+P3|Y1590.0|X1842.0|26,100,00010%
+P3|Y1590.0|X2202.0|2,610,000
+P3|Y1591.5|X1525.0|26,100,000
+P3|Y1593.5|X888.0|1.0
+P3|Y1594.0|X751.0|chiéc
+P3|Y1595.5|X232.0|AVN Stargazer KS (EXT]/
+P3|Y1601.0|X180.0|2
+P3|Y1612.0|X1042.0|078110
+P3|Y1612.0|X1319.0|03
+P3|Y1668.5|X239.0|Xe t con ch06ngui[
+P3|Y1703.5|X236.0|khong ké nguri lai], hieu
+P3|Y1716.5|X983.0|MF3NA81DES
+P3|Y1718.0|X1241.0|G4FLSQ5088
+P3|Y1731.0|X1535.0|456,156,364
+P3|Y1733.0|X1845.0|456,156,36410%
+P3|Y1733.0|X2188.0|45,615,636
+P3|Y1736.5|X891.0|1.0
+P3|Y1740.0|X168.0|3
+P3|Y1740.0|X235.0|Hyundai STARGAZER X (Ma
+P3|Y1740.0|X744.0|chiéc
+P3|Y1756.5|X1035.0|078545
+P3|Y1756.5|X1326.0|02
+P3|Y1778.5|X243.0|loai:l6W7D661VBB002],mi
+P3|Y1816.5|X247.0|100%
+P3|Y1859.0|X987.0|MF3NA81DES
+P3|Y1859.0|X1241.0|G4FLSQ5088
+P3|Y1873.5|X1845.0|26,100.00010%
+P3|Y1873.5|X2202.0|2,610,000
+P3|Y1875.5|X1558.0|26,100,000
+P3|Y1877.0|X748.0|chiéc
+P3|Y1879.0|X873.0|1.0
+P3|Y1883.0|X236.0|AVN Stargazer KS [EXT]
+P3|Y1897.5|X1039.0|078545
+P3|Y1897.5|X1330.0|02
+P3|Y1952.0|X239.0|Xe  tö con ch& 06 ngui [
+P3|Y1989.0|X239.0|khong ké nguri lái}, hieu
+P3|Y2003.5|X998.0|MF3NA81DES
+P3|Y2003.5|X1238.0|G4FLSQ5088
+P3|Y2014.5|X1540.0|456.156,364
+P3|Y2014.5|X1838.0|456,156,36410%
+P3|Y2018.0|X2195.0|45,615,636
+P3|Y2022.0|X239.0|Hyundai STARGAZER X (Ma
+P3|Y2022.0|X748.0|chiéc
+P3|Y2022.0|X873.0|1.0
+P3|Y2027.5|X177.0|5
+P3|Y2040.0|X1035.0|078521
+P3|Y2040.0|X1315.0|28
+P3|Y2062.0|X243.0|loai :l6W7D661V B B002], m&i
+P3|Y2099.0|X247.0|100%
+P3|Y2144.5|X991.0|MF3NA81DES
+P3|Y2144.5|X1234.0|G4FLSQ5088
+P3|Y2159.0|X1849.0|26,100,00010%
+P3|Y2159.0|X2202.0|2,610,000
+P3|Y2160.0|X891.0|.0
+P3|Y2161.0|X1558.0|26,100,000
+P3|Y2164.5|X239.0|AVN Stargazer KS [EXT]
+P3|Y2166.5|X759.0|chiéc
+P3|Y2181.0|X1326.0|28
+P3|Y2183.0|X1035.0|078521
+P3|Y2237.5|X243.0|Xe  tö con ch06 ngui (
+P3|Y2272.5|X243.0|khng ké nguri lái], hieu
+P3|Y2285.0|X991.0|MF3NA81DESJG4FLSQ5097
+P3|Y2303.5|X1554.0|456,156,364
+P3|Y2303.5|X1827.0|456,156,36410%
+P3|Y2303.5|X2195.0|45,615,636
+P3|Y2305.5|X895.0|1.0
+P3|Y2309.5|X247.0|Hyundai STARGAZER X(Ma
+P3|Y2310.5|X751.0|chiec
+P3|Y2324.0|X1326.0|35
+P3|Y2325.5|X1028.0|078676
+P3|Y2346.0|X247.0|loai :l6W7D661V B B002],m
+P3|Y2384.0|X247.0|100%
+P3|Y2430.0|X991.0|MF3NA810ES
+P3|Y2430.0|X1249.0|G4FLSQ5097
+P3|Y2444.5|X1853.0|26,100,00010%
+P3|Y2446.0|X2210.0|2,610,000
+P3|Y2448.5|X1558.0|26,100,000
+P3|Y2451.5|X748.0|chiéc
+P3|Y2451.5|X891.0|1.0
+P3|Y2453.5|X243.0|AVN Stargazer KS [EXT]
+P3|Y2468.0|X1039.0|078676
+P3|Y2470.0|X1333.0|35
+P3|Y2525.0|X250.0|Xe  t con ch06 ngui l
+P3|Y2563.5|X243.0|khng ké nguri lái), hiéu  
+P3|Y2574.0|X1002.0|MF3NA81DETJ
+P3|Y2574.0|X1256.0|G4FLSQ5332
+P3|Y2589.0|X1558.0|421,126,364
+P3|Y2589.0|X1856.0|421,126,36410%
+P3|Y2589.0|X2206.0|42,112,636
+P3|Y2594.5|X751.0|chiéc
+P3|Y2594.5|X895.0|1.0
+P3|Y2596.0|X239.0|Hyundai STARGAZER X [Ma
+P3|Y2612.5|X1039.0|082290
+P3|Y2614.5|X1326.0|42
+P3|Y2634.5|X250.0|loaiI6W7D661V B B000],mÓi
+P3|Y2673.0|X254.0|100%.
+P3|Y2715.5|X1249.0|G4FLSQ5332
+P3|Y2717.0|X991.0|MF3NA81DETJ
+P3|Y2731.5|X1838.0|26,500,00010%
+P3|Y2732.0|X2202.0|2,650,000
+P3|Y2735.5|X239.0|AVN Stargazer KS:[INT]
+P3|Y2735.5|X1554.0|26,500,000
+P3|Y2737.0|X755.0|chiéc
+P3|Y2737.0|X895.0|1.0
+P3|Y2741.0|X177.0|10
+P3|Y2752.0|X1330.0|42
+P3|Y2754.0|X1042.0|082290
+P3|Y2810.5|X254.0|Xe  t con ch06 ngui [
+P3|Y2845.0|X246.0|khöng ké ngurai lái], hieu
+P3|Y2860.0|X991.0|MF3NA81DETJ
+P3|Y2860.0|X1226.0|G4FLSQ5337
+P3|Y2874.5|X1565.0|421,126,364
+P3|Y2874.5|X1856.0|421,126,36410%
+P3|Y2874.5|X2210.0|42,112,636
+P3|Y2880.0|X895.0|1.0
+P3|Y2881.5|X243.0|Hyundai STARGAZER X (Ma
+P3|Y2882.0|X755.0|chiéc
+P3|Y2896.5|X1330.0|90
+P3|Y2898.5|X1042.0|082289
+P3|Y2918.5|X239.0|ioai: l6W7D661V B B000],mi
+P3|Y2956.5|X243.0|100%
+P3|Y3000.5|X994.0|MF3NA81DETJ
+P3|Y3000.5|X1226.0|G4FLSQ5337
+P3|Y3013.5|X2059.0|10%
+P3|Y3015.5|X1853.0|26,500,000
+P3|Y3017.0|X1558.0|26,500,000
+P3|Y3017.0|X2206.0|2,650,000
+P3|Y3019.0|X899.0|1.0
+P3|Y3020.5|X228.0|AVN Stargazer KS [INT]
+P3|Y3021.0|X755.0|chiéc
+P3|Y3022.5|X184.0|12
+P3|Y3037.5|X1042.0|082289
+P3|Y3037.5|X1333.0|90
+P3|Y3253.0|X847.0|000DKA1K0E0TML.
+P3|Y3258.5|X213.0|Ma tra curu hóa don (Invoice Code]
+P3|Y3258.5|X1322.0|Tra curu tai website: http://www.hoadontvan.com
+P3|Y3304.5|X214.0|Kh&i tao tür phan mém Qinvoice - Cóng ty CP Dau tu va C6ng Ngh@ idocNet - MST: 0104614692 - DT: 024.6682.9843
+P3|Y3357.0|X678.0|M&CQT:0082EAD111AA50475BB3CE568F732DAEF3
+P3|Y3357.5|X2147.0|Trang 1/2
+P4|Y195.5|X866.0|HOADO'N GIA TRI GIATANG
+P4|Y263.5|X1079.0|(VAT INVOICE)
+P4|Y276.0|X1779.0|Ký hieu[Serial No]:1C26TXH
+P4|Y294.0|X151.0|ODHYUNDAIITCMOTOR
+P4|Y316.0|X899.0|(Hóa don chuyén déi tu hóa do'n dien t&)
+P4|Y341.5|X1783.0|S6 (Invoice No): 0000554
+P4|Y369.0|X880.0|(Invoice converted from electronic invoice
+P4|Y426.0|X866.0|Ngay (date] 20 thäng (month] 01 näm [year] 2026
+P4|Y493.5|X144.0|Do'n vi bän häng (Seller): C0NG TY CÖ PHAN LIEN DOANH Ó T HYUNDAI THANH CONG VI&T NAM
+P4|Y554.0|X144.0|Ma sö thué [Tax code]: 2700919392
+P4|Y625.0|X147.0|aen t°!A'yu!8 yu!N yun'ua! e!9 ex'naeH ue!g dö!y6u 6uga nyi [ssappn] !ya e!G
+P4|Y685.5|X140.0|ien thoai (Tel): 02437 951116 Email: hangnt1@hyundai.thanhcong.vn  Website: www.hyundai.thanhcong.vn
+P4|Y760.5|X147.0|Ho va ten nguoi mua hang[Customer Name:
+P4|Y817.0|X147.0|Ten dc'n vi [Company]: C0NG TY CÖ PHAN TM XNK HUY TIEN D0NG
+P4|Y879.0|X147.0|ia chi [Address): Sδ 89 Nguyên Hue, Khóm 1, Phung Cao Länh, tinh öng Tháp, Viet Nam
+P4|Y941.0|X140.0|Ma s6 thué [Tax code]: 1402021121
+P4|Y999.5|X147.0|Sö tai khoán [Account Number]:
+P4|Y999.5|X1123.0|Hinh thú'c thanh toän (Payment Method): Chuyén khoän
+P4|Y1200.5|X287.0|TEN HANG HóA,DICH V
+P4|Y1204.0|X151.0|ST
+P4|Y1204.0|X755.0|DVT
+P4|Y1204.0|X1024.0|SO KHUNG
+P4|Y1204.0|X1285.0|SOMAY
+P4|Y1204.0|X1536.0|DONGIA
+P4|Y1204.0|X1801.0|THANH TIEN
+P4|Y1204.5|X2157.0|TIEN THUE
+P4|Y1206.5|X884.0|SL
+P4|Y1206.5|X2059.0|VAT
+P4|Y1253.5|X1034.0|Vin No
+P4|Y1254.0|X155.0|No
+P4|Y1254.0|X1519.0|Unit.Price
+P4|Y1255.5|X379.0|Description
+P4|Y1255.5|X751.0|Unit
+P4|Y1255.5|X873.0|Qty
+P4|Y1257.5|X1267.0|Engine No
+P4|Y1259.0|X1842.0|Amount
+P4|Y1261.0|X2195.0|Val Tax
+P4|Y1319.5|X770.0|[€]
+P4|Y1319.5|X1083.0|[5]
+P4|Y1321.5|X457.0|[2]
+P4|Y1321.5|X877.0|[4]
+P4|Y1323.5|X1812.0|[8]=[4]x[7]
+P4|Y1323.5|X2037.0|[9][10]=9]x[8]
+P4|Y1325.0|X1587.0|7]
+P4|Y1445.5|X2033.0|TÖNG THANH TOAN
+P4|Y1449.0|X1764.0|TONG TIEN
+P4|Y1453.0|X1319.0|TöNG TIEN.CHUA
+P4|Y1469.5|X674.0|TöNG HO'P
+P4|Y1471.5|X1646.0|VAT
+P4|Y1486.0|X1403.0|THUE
+P4|Y1487.5|X1783.0|THUE
+P4|Y1502.0|X2125.0|Total
+P4|Y1522.0|X1359.0|Totalno VAT
+P4|Y1524.5|X667.0|Synthetic
+P4|Y1530.0|X1768.0|TotalVAT
+P4|Y1541.0|X2062.0|includingVAT
+P4|Y1603.0|X151.0|Töng tién khng chiu thué GTGT [Total amount not subject to tax]
+P4|Y1606.5|X2328.0|0
+P4|Y1672.5|X147.0|Töng tién chiu thué suat 0%(Total amount subject to tax 0%]
+P4|Y1672.5|X1573.0|00%
+P4|Y1676.0|X2328.0|0
+P4|Y1738.0|X151.0|Töng tién chiu thué suat 5% (Total amount subject to tax 5%)
+P4|Y1739.5|X1580.0|%
+P4|Y1740.0|X1930.0|0
+P4|Y1741.5|X2328.0|0
+P4|Y1805.5|X1937.0|0
+P4|Y1807.5|X147.0|Töng tién chiu thué suat 8% (Total amount subject to tax 8%]
+P4|Y1809.5|X1628.0|8%
+P4|Y1809.5|X2328.0|0
+P4|Y1873.5|X1377.0|2.824.278.18410%
+P4|Y1875.0|X2121.0|3,106,706,000
+P4|Y1877.0|X151.0|Töng tien chiu thué suat 10% (Total amount subject to tax 10%
+P4|Y1877.0|X1775.0|282,427,816
+P4|Y1939.5|X148.0|TöNG cNG [Total]O
+P4|Y1940.5|X1362.0|2,824,278,184
+P4|Y1946.5|X2110.0|3,106,706,000
+P4|Y1948.5|X1753.0|282,427,816
+P4|Y2034.5|X147.0|Sé tién viét bäng chú [Amount in words]: Ba tý mt träm linh sau trieu bay träm linh sáu nghin döng./.
+P4|Y2173.0|X261.0|Ngui mua hang [Buyer]
+P4|Y2178.5|X1775.0|Nguroi bas hangSeller
+P4|Y2184.0|X928.0|Ngäy 21 thäng 01 näm 2026
+P4|Y2227.5|X283.0|Ky, ghi r ho ten
+P4|Y2235.0|X1875.0|ghi röhoter
+P4|Y2244.5|X847.0|Nguri in chuyén döi(Conversion printer
+P4|Y2273.5|X1830.0|gnatoraT8Gofffame
+P4|Y2279.0|X254.0|[Signature & fullname]
+P4|Y2290.0|X1009.0|(signatur@& fullname]
+P4|Y2313.5|X1830.0|/LIEN DOANHOTOT
+P4|Y2363.0|X1877.0|HYUNDAI
+P4|Y2500.5|X1683.0|DOANAOTOHYUNDAYTHANH
+P4|Y2523.5|X459.0|BAN HANG
+P4|Y2531.0|X1137.0|TTtlong
+P4|Y2549.5|X1828.0|CONAVIELNAM
+P4|Y2591.5|X378.0|QUA DIEN THOAI
+P4|Y2626.5|X1617.0|Ngay ký (Signed Date]:20/01/2026
+P4|Y2701.5|X1757.0|PHOGIAMDOC BOPHANTAI CHINH-KETOAN
+P4|Y2787.0|X1760.0|Pham Thi Van Anh
+P4|Y3242.0|X840.0|O00DKA1K0E0TML
+P4|Y3246.0|X206.0|Ma tra curu hóa don [Invoice Code]
+P4|Y3249.0|X1311.0|Tra c'ru tai website:http://www.hoadontvan.com
+P4|Y3295.0|X206.0|Khi tao tur phan mém Qinvoice -C6ng ty CP Dau tu va C6ng Ngh@ idocNet -MST:0104614692 -DT: 024.6682.9843
+P4|Y3348.5|X674.0|M&CQT:0082EAD111AA50475BB3CE568F732DAEF3
+P4|Y3357.5|X2121.0|Trang 2/2:9

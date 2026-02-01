@@ -1,0 +1,152 @@
+    def extract_vehicles(self, pages_data: list, full_text: str) -> list:
+        """
+        Extract vehicles from Hyundai table-based invoice
+        Uses column-based vertical grouping for multi-line cells
+        """
+        vehicles = []
+        
+        for page_idx, page in enumerate(pages_data):
+            print(f"DEBUG [Hyundai]: Processing page {page_idx+1} with {len(page)} OCR lines")
+            
+            # Find column anchors
+            sk_x = self._find_column_x(page, self.SK_PATTERN)
+            sm_x = self._find_column_x(page, self.SM_PATTERN)
+            
+            if not sk_x:
+                print(f"DEBUG [Hyundai]: No VIN column found on page {page_idx+1}. Trying loose extraction...")
+                # Fallback: Look for any line that contains VIN-like pattern
+                vin_column_items = []
+                for item in page:
+                    text_clean = item["text"].upper().replace(" ", "")
+                    # Accept 15-18 chars for fuzzy OCR
+                    if re.search(r'[A-Z][A-Z0-9]{14,17}', text_clean):
+                        vin_column_items.append(item)
+                
+                if not vin_column_items:
+                    print(f"DEBUG [Hyundai]: No VIN candidates found on page {page_idx+1}, skipping")
+                    continue
+                
+                # If we found VINs but no column header, assume they are the anchor
+                sk_x = sum(i["x"] for i in vin_column_items) / len(vin_column_items)
+            
+            print(f"DEBUG [Hyundai]: Column anchors - VIN: {sk_x}, Engine: {sm_x}")
+            
+            # Find STT column (for counting actual vehicles)
+            stt_x = self._find_column_x(page, r'^STT$')
+            if stt_x:
+                print(f"DEBUG [Hyundai]: STT column found at X: {stt_x}")
+            
+            # Get all items in VIN column (vertical grouping)
+            vin_column_items = [item for item in page if abs(item["x"] - sk_x) < 80]
+            vin_column_items.sort(key=lambda x: x["y"])
+            
+            # Group by Y proximity (same cell)
+            vin_candidates = self._group_by_y(vin_column_items, threshold=35)
+            print(f"DEBUG [Hyundai]: Found {len(vin_candidates)} VIN candidates before merging")
+            
+            # Merge consecutive candidates if total length = 15-18 (multi-line VIN)
+            merged_candidates = []
+            i = 0
+            while i < len(vin_candidates):
+                cand = vin_candidates[i].copy()
+                combined_text = cand["text"].replace(" ", "").upper()
+                
+                # Try to merge with next if current is too short
+                if len(combined_text) < 15 and i + 1 < len(vin_candidates):
+                    next_cand = vin_candidates[i+1]
+                    if next_cand["y_start"] - cand["y_end"] < 35:
+                        combined_text += next_cand["text"].replace(" ", "").upper()
+                        cand["y_end"] = next_cand["y_end"]
+                        i += 1
+                
+                # Check for VIN in combined text
+                vin_match = re.search(r'[A-Z][A-Z0-9]{14,17}', combined_text)
+                if vin_match:
+                    cand["text"] = vin_match.group(0)
+                    merged_candidates.append(cand)
+                else:
+                    merged_candidates.append(cand)
+                i += 1
+            
+            print(f"DEBUG [Hyundai]: Found {len(merged_candidates)} VIN candidates after merging")
+            
+            valid_vins = []
+            for cand in merged_candidates:
+                # Clean header trash
+                if any(k in cand["text"].upper().replace(" ", "") for k in self.HEADER_TRASH):
+                    continue
+                
+                vin_text = cand["text"].upper().replace(" ", "")
+                # Find valid VIN
+                if len(vin_text) >= 15:
+                    if not any(bl in vin_text for bl in self.VIN_BLACKLIST):
+                        # Extract STT
+                        stt_number = None
+                        if stt_x:
+                            stt_items = [
+                                item for item in page
+                                if abs(item["x"] - stt_x) < 50 and cand["y_start"] - 20 <= item["y"] <= cand["y_end"] + 20
+                            ]
+                            for stt_item in stt_items:
+                                stt_text = stt_item["text"].strip()
+                                if stt_text.isdigit():
+                                    stt_number = int(stt_text)
+                                    break
+                        
+                        valid_vins.append({
+                            "vin": vin_text,
+                            "y_start": cand["y_start"],
+                            "y_end": cand["y_end"],
+                            "stt": stt_number
+                        })
+                        print(f"DEBUG [Hyundai]: Valid VIN found: {vin_text}, STT: {stt_number}")
+            
+            print(f"DEBUG [Hyundai]: Total valid VINs on page: {len(valid_vins)}")
+            
+            # Extract Details for each VIN
+            for vin_info in valid_vins:
+                vin = vin_info["vin"]
+                y_start = vin_info["y_start"]
+                y_end = vin_info["y_end"]
+                
+                # Find Engine
+                engine = None
+                eff_sm_x = sm_x
+                if not eff_sm_x:
+                    # Search for Engine label near this VIN
+                    for item in page:
+                        if abs(item["y"] - y_start) < 80:
+                            if re.search(self.SM_PATTERN, item["text"], re.I):
+                                eff_sm_x = item["x"]
+                                break
+                
+                if eff_sm_x:
+                    engine_items = [
+                        item for item in page 
+                        if abs(item["x"] - eff_sm_x) < 80 and y_start - 40 <= item["y"] <= y_end + 40
+                    ]
+                    engine_items.sort(key=lambda x: x["y"])
+                    parts = [it["text"].replace(" ", "").upper() for it in engine_items]
+                    # Filter parts looks like engine
+                    valid_parts = [p for p in parts if (re.match(r"^[A-Z0-9]{4,}$", p) or re.match(r"^\d{2,5}$", p))]
+                    if valid_parts:
+                        engine = "".join(valid_parts)
+                        if len(engine) > 20 or any(k in engine for k in self.ENGINE_BLACKLIST):
+                            engine = max(valid_parts, key=len)
+                
+                # Find Description
+                desc_items = [
+                    item for item in page 
+                    if item["x"] < sk_x - 30 and y_start - 60 <= item["y"] <= y_end + 40
+                ]
+                desc_items.sort(key=lambda x: (x["y"], x["x"]))
+                description = " ".join([item["text"] for item in desc_items])
+                
+                vehicles.append({
+                    "chassis_number": vin,
+                    "engine_number": engine,
+                    "description_hint": description.strip()
+                })
+                print(f"DEBUG [Hyundai]: Added vehicle - VIN: {vin}, Engine: {engine}")
+        
+        return vehicles
