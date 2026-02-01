@@ -1,5 +1,5 @@
-# Sử dụng Python 3.9 slim làm base image
-FROM python:3.9-slim
+# Sử dụng Python 3.10.9 slim làm base image
+FROM python:3.10.9-slim
 
 # Cài đặt các phụ thuộc hệ thống cần thiết cho PaddleOCR, OpenCV và pdf2image
 RUN apt-get update && apt-get install -y \
