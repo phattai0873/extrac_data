@@ -2,7 +2,6 @@ import os
 import cv2
 import numpy as np
 import re
-from paddleocr import PaddleOCR
 from pdf2image import convert_from_path
 from parsers import HyundaiParser, VinFastParser
 
@@ -12,16 +11,24 @@ os.environ["FLAGS_pir_executor"] = "0"
 
 class OCRService:
     def __init__(self, poppler_path=None):
-        self.ocr = PaddleOCR(
-            use_angle_cls=True,
-            lang='vi',
-        )
+        self._ocr = None
         self.poppler_path = poppler_path
 
         self.parsers = [
             HyundaiParser(),
             VinFastParser()
         ]
+
+    def get_ocr(self):
+        if self._ocr is None:
+            print("INITIALIZING PADDLEOCR (LAZY LOAD)...")
+            from paddleocr import PaddleOCR
+            self._ocr = PaddleOCR(
+                use_angle_cls=False,  # Tắt để chạy nhanh hơn trên Render
+                lang='vi',
+                show_log=False
+            )
+        return self._ocr
 
     # ----------------------------------------------------
     # PDF → Images
@@ -40,7 +47,8 @@ class OCRService:
         if not isinstance(image, np.ndarray):
             image = cv2.cvtColor(np.array(image), cv2.COLOR_RGB2BGR)
 
-        result = self.ocr.ocr(image)
+        ocr_engine = self.get_ocr()
+        result = ocr_engine.ocr(image)
         lines = []
 
         if result and result[0]:
